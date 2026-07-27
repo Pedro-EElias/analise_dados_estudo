@@ -1,4 +1,4 @@
-# Análise de vendas de eletrônicos — 1º semestre de 2026
+# Análise de vendas de eletrônicos
 Projeto de EDA com **Pandas**, validação de dados com **Pandera** e publicação dos resultados em **SQLite**.
 
 ## Indicadores entregues
